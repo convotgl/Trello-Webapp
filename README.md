@@ -1,4 +1,3 @@
-# CS203A2
 ## Trello Integration Web App
 A terminal-like web application built with Node.js and Vue.js that allows users to interact with Trello through commands.
 
@@ -12,19 +11,20 @@ Make sure to change the following to your personal Trello API and token in the t
 ## Installation
 
 ### Clone the repository:
-git clone https://github.com/your-username/CS203A2.git <br/>
+git clone https://github.com/your-username/Trello-Webapp.git <br/>
 cd webapp
 
-### Backend Setup:
+## MAKE SURE TO RUN BOTH COMMAND PROMPT WINDOWS IN ADMINISTRATOR MODE!
+
+### Backend Setup (In CMD):
 cd webapp <br/>
 npm install
 
-### Frontend Setup:
+### Frontend Setup (In CMD):
 cd webapp/public/terminal-frontend <br/>
 npm install
 
 ## Running the Application
-## MAKE SURE TO RUN BOTH COMMAND PROMPT WINDOWS IN ADMINISTRATOR MODE!
 
 ### Start the Backend Server:
 cd webapp <br/>
